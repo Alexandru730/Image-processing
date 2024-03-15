@@ -21,10 +21,3 @@ This project demonstrates image processing techniques (mirror and edge detection
 - `script.js`: JavaScript file containing the logic for image fetching, processing, and display.
 - `styles.css`: CSS file with minimal styling for the webpage.
 
-## Dependencies
-
-- No external libraries are required.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
